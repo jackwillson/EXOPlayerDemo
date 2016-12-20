@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_simple_player_view.xml",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\layout\\exo_simple_player_view.xml"
+    }
+]

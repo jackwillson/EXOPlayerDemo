@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\exo_controls_next.png",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\exo_controls_previous.png",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\exo_controls_fastforward.png",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\exo_controls_play.png",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\exo_controls_pause.png",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\exo_controls_rewind.png",
+        "source": "E:\\jack\\studio_works\\ExoPlayer-release-v2\\library\\buildout\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\exo_controls_rewind.png"
+    }
+]
